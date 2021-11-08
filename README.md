@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @niedzwiedz-polarny
 
-- 👀 I’m interested in 
-        computer science
-        game development
+- 👀 I’m interested in ...
+        computer science, 
+        game development, 
         application development
         
-- 🌱 I’m currently learning...
+- 🌱 I’m currently learning ...
         data structures and algos
         
 - 💞️ I’m looking to collaborate on ...
